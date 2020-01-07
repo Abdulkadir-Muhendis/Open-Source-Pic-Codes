@@ -1,0 +1,136 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.5.4	//
+!_TAG_REVISION_NAME	MCHPTags	//
+!_TAG_REVISION_VERSION	6.0.1	//
+BITRATE::1000000	C:\Documents and Settings\c13661.MCHP-MAIN\My Documents\CVS_folder\src\24H\Code Examples\CE228_ECAN_FIFO\h\ECAN1Config.h	59;"	d	line:59
+BITRATE::1000000	C:\Documents and Settings\c13661.MCHP-MAIN\My Documents\CVS_folder\src\24H\Code Examples\CE228_ECAN_FIFO\h\ECAN2Config.h	58;"	d	line:58
+BRP_VAL::((FCAN/(2*NTQ*BITRATE))-1)	C:\Documents and Settings\c13661.MCHP-MAIN\My Documents\CVS_folder\src\24H\Code Examples\CE228_ECAN_FIFO\h\ECAN1Config.h	61;"	d	line:61
+BRP_VAL::((FCAN/(2*NTQ*BITRATE))-1)	C:\Documents and Settings\c13661.MCHP-MAIN\My Documents\CVS_folder\src\24H\Code Examples\CE228_ECAN_FIFO\h\ECAN2Config.h	60;"	d	line:60
+ECAN1MSGBUF	C:\Documents and Settings\c13661.MCHP-MAIN\My Documents\CVS_folder\src\24H\Code Examples\CE228_ECAN_FIFO\h\ECAN1Config.h	65;"	t	line:65
+ECAN1_MSG_BUF_LENGTH::32	C:\Documents and Settings\c13661.MCHP-MAIN\My Documents\CVS_folder\src\24H\Code Examples\CE228_ECAN_FIFO\h\ECAN1Config.h	64;"	d	line:64
+ECAN2MSGBUF	C:\Documents and Settings\c13661.MCHP-MAIN\My Documents\CVS_folder\src\24H\Code Examples\CE228_ECAN_FIFO\h\ECAN2Config.h	65;"	t	line:65
+ECAN2_MSG_BUF_LENGTH::32	C:\Documents and Settings\c13661.MCHP-MAIN\My Documents\CVS_folder\src\24H\Code Examples\CE228_ECAN_FIFO\h\ECAN2Config.h	64;"	d	line:64
+FCAN::40000000	C:\Documents and Settings\c13661.MCHP-MAIN\My Documents\CVS_folder\src\24H\Code Examples\CE228_ECAN_FIFO\h\ECAN1Config.h	58;"	d	line:58
+FCAN::40000000	C:\Documents and Settings\c13661.MCHP-MAIN\My Documents\CVS_folder\src\24H\Code Examples\CE228_ECAN_FIFO\h\ECAN2Config.h	57;"	d	line:57
+FNOSC_FRC	C:\Documents and Settings\c13661.MCHP-MAIN\My Documents\CVS_folder\src\24H\Code Examples\CE228_ECAN_FIFO\src\main.c	62;"	v	line:62
+FWDTEN_OFF	C:\Documents and Settings\c13661.MCHP-MAIN\My Documents\CVS_folder\src\24H\Code Examples\CE228_ECAN_FIFO\src\main.c	69;"	v	line:69
+NTQ::20	C:\Documents and Settings\c13661.MCHP-MAIN\My Documents\CVS_folder\src\24H\Code Examples\CE228_ECAN_FIFO\h\ECAN1Config.h	60;"	d	line:60
+NTQ::20	C:\Documents and Settings\c13661.MCHP-MAIN\My Documents\CVS_folder\src\24H\Code Examples\CE228_ECAN_FIFO\h\ECAN2Config.h	59;"	d	line:59
+POSCMD_XT	C:\Documents and Settings\c13661.MCHP-MAIN\My Documents\CVS_folder\src\24H\Code Examples\CE228_ECAN_FIFO\src\main.c	63;"	v	line:63
+_AddressError	C:\Documents and Settings\c13661.MCHP-MAIN\My Documents\CVS_folder\src\24H\Code Examples\CE228_ECAN_FIFO\src\traps.c	61;"	p	line:61	file:	signature:(void)
+_AddressError	C:\Documents and Settings\c13661.MCHP-MAIN\My Documents\CVS_folder\src\24H\Code Examples\CE228_ECAN_FIFO\src\traps.c	86;"	f	line:86	signature:(void)
+_AltAddressError	C:\Documents and Settings\c13661.MCHP-MAIN\My Documents\CVS_folder\src\24H\Code Examples\CE228_ECAN_FIFO\src\traps.c	128;"	f	line:128	signature:(void)
+_AltAddressError	C:\Documents and Settings\c13661.MCHP-MAIN\My Documents\CVS_folder\src\24H\Code Examples\CE228_ECAN_FIFO\src\traps.c	67;"	p	line:67	file:	signature:(void)
+_AltDMACError	C:\Documents and Settings\c13661.MCHP-MAIN\My Documents\CVS_folder\src\24H\Code Examples\CE228_ECAN_FIFO\src\traps.c	146;"	f	line:146	signature:(void)
+_AltDMACError	C:\Documents and Settings\c13661.MCHP-MAIN\My Documents\CVS_folder\src\24H\Code Examples\CE228_ECAN_FIFO\src\traps.c	70;"	p	line:70	file:	signature:(void)
+_AltMathError	C:\Documents and Settings\c13661.MCHP-MAIN\My Documents\CVS_folder\src\24H\Code Examples\CE228_ECAN_FIFO\src\traps.c	140;"	f	line:140	signature:(void)
+_AltMathError	C:\Documents and Settings\c13661.MCHP-MAIN\My Documents\CVS_folder\src\24H\Code Examples\CE228_ECAN_FIFO\src\traps.c	69;"	p	line:69	file:	signature:(void)
+_AltOscillatorFail	C:\Documents and Settings\c13661.MCHP-MAIN\My Documents\CVS_folder\src\24H\Code Examples\CE228_ECAN_FIFO\src\traps.c	122;"	f	line:122	signature:(void)
+_AltOscillatorFail	C:\Documents and Settings\c13661.MCHP-MAIN\My Documents\CVS_folder\src\24H\Code Examples\CE228_ECAN_FIFO\src\traps.c	66;"	p	line:66	file:	signature:(void)
+_AltStackError	C:\Documents and Settings\c13661.MCHP-MAIN\My Documents\CVS_folder\src\24H\Code Examples\CE228_ECAN_FIFO\src\traps.c	134;"	f	line:134	signature:(void)
+_AltStackError	C:\Documents and Settings\c13661.MCHP-MAIN\My Documents\CVS_folder\src\24H\Code Examples\CE228_ECAN_FIFO\src\traps.c	68;"	p	line:68	file:	signature:(void)
+_C1Interrupt	C:\Documents and Settings\c13661.MCHP-MAIN\My Documents\CVS_folder\src\24H\Code Examples\CE228_ECAN_FIFO\src\main.c	288;"	f	line:288	signature:(void)
+_C2Interrupt	C:\Documents and Settings\c13661.MCHP-MAIN\My Documents\CVS_folder\src\24H\Code Examples\CE228_ECAN_FIFO\src\main.c	303;"	f	line:303	signature:(void)
+_DMA0Interrupt	C:\Documents and Settings\c13661.MCHP-MAIN\My Documents\CVS_folder\src\24H\Code Examples\CE228_ECAN_FIFO\src\main.c	322;"	f	line:322	signature:(void)
+_DMA1Interrupt	C:\Documents and Settings\c13661.MCHP-MAIN\My Documents\CVS_folder\src\24H\Code Examples\CE228_ECAN_FIFO\src\main.c	327;"	f	line:327	signature:(void)
+_DMA2Interrupt	C:\Documents and Settings\c13661.MCHP-MAIN\My Documents\CVS_folder\src\24H\Code Examples\CE228_ECAN_FIFO\src\main.c	332;"	f	line:332	signature:(void)
+_DMA3Interrupt	C:\Documents and Settings\c13661.MCHP-MAIN\My Documents\CVS_folder\src\24H\Code Examples\CE228_ECAN_FIFO\src\main.c	337;"	f	line:337	signature:(void)
+_DMACError	C:\Documents and Settings\c13661.MCHP-MAIN\My Documents\CVS_folder\src\24H\Code Examples\CE228_ECAN_FIFO\src\traps.c	103;"	f	line:103	signature:(void)
+_DMACError	C:\Documents and Settings\c13661.MCHP-MAIN\My Documents\CVS_folder\src\24H\Code Examples\CE228_ECAN_FIFO\src\traps.c	64;"	p	line:64	file:	signature:(void)
+_MathError	C:\Documents and Settings\c13661.MCHP-MAIN\My Documents\CVS_folder\src\24H\Code Examples\CE228_ECAN_FIFO\src\traps.c	63;"	p	line:63	file:	signature:(void)
+_MathError	C:\Documents and Settings\c13661.MCHP-MAIN\My Documents\CVS_folder\src\24H\Code Examples\CE228_ECAN_FIFO\src\traps.c	97;"	f	line:97	signature:(void)
+_OscillatorFail	C:\Documents and Settings\c13661.MCHP-MAIN\My Documents\CVS_folder\src\24H\Code Examples\CE228_ECAN_FIFO\src\traps.c	60;"	p	line:60	file:	signature:(void)
+_OscillatorFail	C:\Documents and Settings\c13661.MCHP-MAIN\My Documents\CVS_folder\src\24H\Code Examples\CE228_ECAN_FIFO\src\traps.c	80;"	f	line:80	signature:(void)
+_StackError	C:\Documents and Settings\c13661.MCHP-MAIN\My Documents\CVS_folder\src\24H\Code Examples\CE228_ECAN_FIFO\src\traps.c	62;"	p	line:62	file:	signature:(void)
+_StackError	C:\Documents and Settings\c13661.MCHP-MAIN\My Documents\CVS_folder\src\24H\Code Examples\CE228_ECAN_FIFO\src\traps.c	91;"	f	line:91	signature:(void)
+__ECAN1_CONFIG_H__	C:\Documents and Settings\c13661.MCHP-MAIN\My Documents\CVS_folder\src\24H\Code Examples\CE228_ECAN_FIFO\h\ECAN1Config.h	52;"	d	line:52
+__ECAN1_DRV_H__	C:\Documents and Settings\c13661.MCHP-MAIN\My Documents\CVS_folder\src\24H\Code Examples\CE228_ECAN_FIFO\h\ECAN1Drv.h	52;"	d	line:52
+__ECAN2_CONFIG_H__	C:\Documents and Settings\c13661.MCHP-MAIN\My Documents\CVS_folder\src\24H\Code Examples\CE228_ECAN_FIFO\h\ECAN2Config.h	52;"	d	line:52
+__ECAN2_DRV_H__	C:\Documents and Settings\c13661.MCHP-MAIN\My Documents\CVS_folder\src\24H\Code Examples\CE228_ECAN_FIFO\h\ECAN2Drv.h	52;"	d	line:52
+a	C:\Documents and Settings\c13661.MCHP-MAIN\My Documents\CVS_folder\src\24H\Code Examples\CE228_ECAN_FIFO\src\ECAN1Drv.c	275;"	l	line:275
+a	C:\Documents and Settings\c13661.MCHP-MAIN\My Documents\CVS_folder\src\24H\Code Examples\CE228_ECAN_FIFO\src\ECAN2Drv.c	272;"	l	line:272
+bufPntRegAddr	C:\Documents and Settings\c13661.MCHP-MAIN\My Documents\CVS_folder\src\24H\Code Examples\CE228_ECAN_FIFO\src\ECAN1Drv.c	85;"	l	line:85
+bufPntRegAddr	C:\Documents and Settings\c13661.MCHP-MAIN\My Documents\CVS_folder\src\24H\Code Examples\CE228_ECAN_FIFO\src\ECAN2Drv.c	84;"	l	line:84
+clearIntrflags	C:\Documents and Settings\c13661.MCHP-MAIN\My Documents\CVS_folder\src\24H\Code Examples\CE228_ECAN_FIFO\src\main.c	248;"	f	line:248	signature:(void)
+clearIntrflags	C:\Documents and Settings\c13661.MCHP-MAIN\My Documents\CVS_folder\src\24H\Code Examples\CE228_ECAN_FIFO\src\main.c	79;"	p	line:79	file:	signature:(void)
+dma0init	C:\Documents and Settings\c13661.MCHP-MAIN\My Documents\CVS_folder\src\24H\Code Examples\CE228_ECAN_FIFO\h\ECAN1Config.h	71;"	p	line:71	signature:(void)
+dma0init	C:\Documents and Settings\c13661.MCHP-MAIN\My Documents\CVS_folder\src\24H\Code Examples\CE228_ECAN_FIFO\src\ECAN1Config.C	61;"	f	line:61	signature:(void)
+dma1init	C:\Documents and Settings\c13661.MCHP-MAIN\My Documents\CVS_folder\src\24H\Code Examples\CE228_ECAN_FIFO\h\ECAN2Config.h	70;"	p	line:70	signature:(void)
+dma1init	C:\Documents and Settings\c13661.MCHP-MAIN\My Documents\CVS_folder\src\24H\Code Examples\CE228_ECAN_FIFO\src\ECAN2Config.C	63;"	f	line:63	signature:(void)
+dma2init	C:\Documents and Settings\c13661.MCHP-MAIN\My Documents\CVS_folder\src\24H\Code Examples\CE228_ECAN_FIFO\h\ECAN1Config.h	72;"	p	line:72	signature:(void)
+dma2init	C:\Documents and Settings\c13661.MCHP-MAIN\My Documents\CVS_folder\src\24H\Code Examples\CE228_ECAN_FIFO\src\ECAN1Config.C	75;"	f	line:75	signature:(void)
+dma3init	C:\Documents and Settings\c13661.MCHP-MAIN\My Documents\CVS_folder\src\24H\Code Examples\CE228_ECAN_FIFO\h\ECAN2Config.h	71;"	p	line:71	signature:(void)
+dma3init	C:\Documents and Settings\c13661.MCHP-MAIN\My Documents\CVS_folder\src\24H\Code Examples\CE228_ECAN_FIFO\src\ECAN2Config.C	76;"	f	line:76	signature:(void)
+ecan1ClkInit	C:\Documents and Settings\c13661.MCHP-MAIN\My Documents\CVS_folder\src\24H\Code Examples\CE228_ECAN_FIFO\src\ECAN1Config.C	89;"	f	line:89	signature:(void)
+ecan1DisableRXFilter	C:\Documents and Settings\c13661.MCHP-MAIN\My Documents\CVS_folder\src\24H\Code Examples\CE228_ECAN_FIFO\h\ECAN1Drv.h	60;"	p	line:60	signature:(int n)
+ecan1DisableRXFilter	C:\Documents and Settings\c13661.MCHP-MAIN\My Documents\CVS_folder\src\24H\Code Examples\CE228_ECAN_FIFO\src\ECAN1Drv.c	344;"	f	line:344	signature:(int n)
+ecan1Init	C:\Documents and Settings\c13661.MCHP-MAIN\My Documents\CVS_folder\src\24H\Code Examples\CE228_ECAN_FIFO\src\ECAN1Config.C	127;"	f	line:127	signature:(void)
+ecan1WriteMessage	C:\Documents and Settings\c13661.MCHP-MAIN\My Documents\CVS_folder\src\24H\Code Examples\CE228_ECAN_FIFO\src\main.c	155;"	f	line:155	signature:(void)
+ecan1WriteMessage	C:\Documents and Settings\c13661.MCHP-MAIN\My Documents\CVS_folder\src\24H\Code Examples\CE228_ECAN_FIFO\src\main.c	80;"	p	line:80	file:	signature:(void)
+ecan1WriteRxAcptFilter	C:\Documents and Settings\c13661.MCHP-MAIN\My Documents\CVS_folder\src\24H\Code Examples\CE228_ECAN_FIFO\h\ECAN1Drv.h	54;"	p	line:54	signature:(int n, long identifier, unsigned int exide,unsigned int bufPnt,unsigned int maskSel)
+ecan1WriteRxAcptFilter	C:\Documents and Settings\c13661.MCHP-MAIN\My Documents\CVS_folder\src\24H\Code Examples\CE228_ECAN_FIFO\src\ECAN1Drv.c	82;"	f	line:82	signature:(int n, long identifier, unsigned int exide, unsigned int bufPnt,unsigned int maskSel)
+ecan1WriteRxAcptMask	C:\Documents and Settings\c13661.MCHP-MAIN\My Documents\CVS_folder\src\24H\Code Examples\CE228_ECAN_FIFO\h\ECAN1Drv.h	55;"	p	line:55	signature:(int m, long identifierMask, unsigned int mide,unsigned int exide)
+ecan1WriteRxAcptMask	C:\Documents and Settings\c13661.MCHP-MAIN\My Documents\CVS_folder\src\24H\Code Examples\CE228_ECAN_FIFO\src\ECAN1Drv.c	147;"	f	line:147	signature:(int m, long identifier, unsigned int mide, unsigned int exide)
+ecan1WriteTxMsgBufData	C:\Documents and Settings\c13661.MCHP-MAIN\My Documents\CVS_folder\src\24H\Code Examples\CE228_ECAN_FIFO\h\ECAN1Drv.h	58;"	p	line:58	signature:(unsigned int buf, unsigned int dataLength, unsigned int data1, unsigned int data2, unsigned int data3, unsigned int data4)
+ecan1WriteTxMsgBufData	C:\Documents and Settings\c13661.MCHP-MAIN\My Documents\CVS_folder\src\24H\Code Examples\CE228_ECAN_FIFO\src\ECAN1Drv.c	325;"	f	line:325	signature:(unsigned int buf, unsigned int dataLength, unsigned int data1, unsigned int data2, unsigned int data3, unsigned int data4)
+ecan1WriteTxMsgBufId	C:\Documents and Settings\c13661.MCHP-MAIN\My Documents\CVS_folder\src\24H\Code Examples\CE228_ECAN_FIFO\h\ECAN1Drv.h	57;"	p	line:57	signature:(unsigned int buf, long txIdentifier, unsigned int ide, unsigned int remoteTransmit)
+ecan1WriteTxMsgBufId	C:\Documents and Settings\c13661.MCHP-MAIN\My Documents\CVS_folder\src\24H\Code Examples\CE228_ECAN_FIFO\src\ECAN1Drv.c	272;"	f	line:272	signature:(unsigned int buf, long txIdentifier, unsigned int ide, unsigned int remoteTransmit)
+ecan1init	C:\Documents and Settings\c13661.MCHP-MAIN\My Documents\CVS_folder\src\24H\Code Examples\CE228_ECAN_FIFO\h\ECAN1Config.h	70;"	p	line:70	signature:(void)
+ecan1msgBuf	C:\Documents and Settings\c13661.MCHP-MAIN\My Documents\CVS_folder\src\24H\Code Examples\CE228_ECAN_FIFO\src\main.c	74;"	v	line:74
+ecan2ClkInit	C:\Documents and Settings\c13661.MCHP-MAIN\My Documents\CVS_folder\src\24H\Code Examples\CE228_ECAN_FIFO\src\ECAN2Config.C	89;"	f	line:89	signature:(void)
+ecan2DisableRXFilter	C:\Documents and Settings\c13661.MCHP-MAIN\My Documents\CVS_folder\src\24H\Code Examples\CE228_ECAN_FIFO\h\ECAN2Drv.h	60;"	p	line:60	signature:(int n)
+ecan2DisableRXFilter	C:\Documents and Settings\c13661.MCHP-MAIN\My Documents\CVS_folder\src\24H\Code Examples\CE228_ECAN_FIFO\src\ECAN2Drv.c	341;"	f	line:341	signature:(int n)
+ecan2Init	C:\Documents and Settings\c13661.MCHP-MAIN\My Documents\CVS_folder\src\24H\Code Examples\CE228_ECAN_FIFO\src\ECAN2Config.C	125;"	f	line:125	signature:(void)
+ecan2WriteMessage	C:\Documents and Settings\c13661.MCHP-MAIN\My Documents\CVS_folder\src\24H\Code Examples\CE228_ECAN_FIFO\src\main.c	202;"	f	line:202	signature:(void)
+ecan2WriteMessage	C:\Documents and Settings\c13661.MCHP-MAIN\My Documents\CVS_folder\src\24H\Code Examples\CE228_ECAN_FIFO\src\main.c	81;"	p	line:81	file:	signature:(void)
+ecan2WriteRxAcptFilter	C:\Documents and Settings\c13661.MCHP-MAIN\My Documents\CVS_folder\src\24H\Code Examples\CE228_ECAN_FIFO\h\ECAN2Drv.h	54;"	p	line:54	signature:(int n, long identifier, unsigned int exide,unsigned int bufPnt,unsigned int maskSel)
+ecan2WriteRxAcptFilter	C:\Documents and Settings\c13661.MCHP-MAIN\My Documents\CVS_folder\src\24H\Code Examples\CE228_ECAN_FIFO\src\ECAN2Drv.c	81;"	f	line:81	signature:(int n, long identifier, unsigned int exide, unsigned int bufPnt,unsigned int maskSel)
+ecan2WriteRxAcptMask	C:\Documents and Settings\c13661.MCHP-MAIN\My Documents\CVS_folder\src\24H\Code Examples\CE228_ECAN_FIFO\h\ECAN2Drv.h	55;"	p	line:55	signature:(int m, long identifierMask, unsigned int mide,unsigned int exide)
+ecan2WriteRxAcptMask	C:\Documents and Settings\c13661.MCHP-MAIN\My Documents\CVS_folder\src\24H\Code Examples\CE228_ECAN_FIFO\src\ECAN2Drv.c	144;"	f	line:144	signature:(int m, long identifier, unsigned int mide,unsigned int exide)
+ecan2WriteTxMsgBufData	C:\Documents and Settings\c13661.MCHP-MAIN\My Documents\CVS_folder\src\24H\Code Examples\CE228_ECAN_FIFO\h\ECAN2Drv.h	58;"	p	line:58	signature:(unsigned int buf, unsigned int dataLength, unsigned int data1, unsigned int data2, unsigned int data3, unsigned int data4)
+ecan2WriteTxMsgBufData	C:\Documents and Settings\c13661.MCHP-MAIN\My Documents\CVS_folder\src\24H\Code Examples\CE228_ECAN_FIFO\src\ECAN2Drv.c	322;"	f	line:322	signature:(unsigned int buf, unsigned int dataLength, unsigned int data1, unsigned int data2, unsigned int data3, unsigned int data4)
+ecan2WriteTxMsgBufId	C:\Documents and Settings\c13661.MCHP-MAIN\My Documents\CVS_folder\src\24H\Code Examples\CE228_ECAN_FIFO\h\ECAN2Drv.h	57;"	p	line:57	signature:(unsigned int buf, long txIdentifier, unsigned int ide, unsigned int remoteTransmit)
+ecan2WriteTxMsgBufId	C:\Documents and Settings\c13661.MCHP-MAIN\My Documents\CVS_folder\src\24H\Code Examples\CE228_ECAN_FIFO\src\ECAN2Drv.c	269;"	f	line:269	signature:(unsigned int buf, long txIdentifier, unsigned int ide, unsigned int remoteTransmit)
+ecan2init	C:\Documents and Settings\c13661.MCHP-MAIN\My Documents\CVS_folder\src\24H\Code Examples\CE228_ECAN_FIFO\h\ECAN2Config.h	69;"	p	line:69	signature:(void)
+ecan2msgBuf	C:\Documents and Settings\c13661.MCHP-MAIN\My Documents\CVS_folder\src\24H\Code Examples\CE228_ECAN_FIFO\src\main.c	75;"	v	line:75
+eid15_0	C:\Documents and Settings\c13661.MCHP-MAIN\My Documents\CVS_folder\src\24H\Code Examples\CE228_ECAN_FIFO\src\ECAN1Drv.c	149;"	l	line:149
+eid15_0	C:\Documents and Settings\c13661.MCHP-MAIN\My Documents\CVS_folder\src\24H\Code Examples\CE228_ECAN_FIFO\src\ECAN1Drv.c	84;"	l	line:84
+eid15_0	C:\Documents and Settings\c13661.MCHP-MAIN\My Documents\CVS_folder\src\24H\Code Examples\CE228_ECAN_FIFO\src\ECAN2Drv.c	146;"	l	line:146
+eid15_0	C:\Documents and Settings\c13661.MCHP-MAIN\My Documents\CVS_folder\src\24H\Code Examples\CE228_ECAN_FIFO\src\ECAN2Drv.c	83;"	l	line:83
+eid17_16	C:\Documents and Settings\c13661.MCHP-MAIN\My Documents\CVS_folder\src\24H\Code Examples\CE228_ECAN_FIFO\src\ECAN1Drv.c	149;"	l	line:149
+eid17_16	C:\Documents and Settings\c13661.MCHP-MAIN\My Documents\CVS_folder\src\24H\Code Examples\CE228_ECAN_FIFO\src\ECAN1Drv.c	84;"	l	line:84
+eid17_16	C:\Documents and Settings\c13661.MCHP-MAIN\My Documents\CVS_folder\src\24H\Code Examples\CE228_ECAN_FIFO\src\ECAN2Drv.c	146;"	l	line:146
+eid17_16	C:\Documents and Settings\c13661.MCHP-MAIN\My Documents\CVS_folder\src\24H\Code Examples\CE228_ECAN_FIFO\src\ECAN2Drv.c	83;"	l	line:83
+eid17_6	C:\Documents and Settings\c13661.MCHP-MAIN\My Documents\CVS_folder\src\24H\Code Examples\CE228_ECAN_FIFO\src\ECAN1Drv.c	275;"	l	line:275
+eid17_6	C:\Documents and Settings\c13661.MCHP-MAIN\My Documents\CVS_folder\src\24H\Code Examples\CE228_ECAN_FIFO\src\ECAN2Drv.c	272;"	l	line:272
+eid5_0	C:\Documents and Settings\c13661.MCHP-MAIN\My Documents\CVS_folder\src\24H\Code Examples\CE228_ECAN_FIFO\src\ECAN1Drv.c	275;"	l	line:275
+eid5_0	C:\Documents and Settings\c13661.MCHP-MAIN\My Documents\CVS_folder\src\24H\Code Examples\CE228_ECAN_FIFO\src\ECAN2Drv.c	272;"	l	line:272
+fltEnRegAddr	C:\Documents and Settings\c13661.MCHP-MAIN\My Documents\CVS_folder\src\24H\Code Examples\CE228_ECAN_FIFO\src\ECAN1Drv.c	346;"	l	line:346
+fltEnRegAddr	C:\Documents and Settings\c13661.MCHP-MAIN\My Documents\CVS_folder\src\24H\Code Examples\CE228_ECAN_FIFO\src\ECAN1Drv.c	85;"	l	line:85
+fltEnRegAddr	C:\Documents and Settings\c13661.MCHP-MAIN\My Documents\CVS_folder\src\24H\Code Examples\CE228_ECAN_FIFO\src\ECAN2Drv.c	343;"	l	line:343
+fltEnRegAddr	C:\Documents and Settings\c13661.MCHP-MAIN\My Documents\CVS_folder\src\24H\Code Examples\CE228_ECAN_FIFO\src\ECAN2Drv.c	84;"	l	line:84
+main	C:\Documents and Settings\c13661.MCHP-MAIN\My Documents\CVS_folder\src\24H\Code Examples\CE228_ECAN_FIFO\src\main.c	85;"	f	line:85	signature:(void)
+maskRegAddr	C:\Documents and Settings\c13661.MCHP-MAIN\My Documents\CVS_folder\src\24H\Code Examples\CE228_ECAN_FIFO\src\ECAN1Drv.c	150;"	l	line:150
+maskRegAddr	C:\Documents and Settings\c13661.MCHP-MAIN\My Documents\CVS_folder\src\24H\Code Examples\CE228_ECAN_FIFO\src\ECAN2Drv.c	147;"	l	line:147
+maskSelRegAddr	C:\Documents and Settings\c13661.MCHP-MAIN\My Documents\CVS_folder\src\24H\Code Examples\CE228_ECAN_FIFO\src\ECAN1Drv.c	85;"	l	line:85
+maskSelRegAddr	C:\Documents and Settings\c13661.MCHP-MAIN\My Documents\CVS_folder\src\24H\Code Examples\CE228_ECAN_FIFO\src\ECAN2Drv.c	84;"	l	line:84
+oscConfig	C:\Documents and Settings\c13661.MCHP-MAIN\My Documents\CVS_folder\src\24H\Code Examples\CE228_ECAN_FIFO\src\main.c	259;"	f	line:259	signature:(void)
+oscConfig	C:\Documents and Settings\c13661.MCHP-MAIN\My Documents\CVS_folder\src\24H\Code Examples\CE228_ECAN_FIFO\src\main.c	78;"	p	line:78	file:	signature:(void)
+sid10_0	C:\Documents and Settings\c13661.MCHP-MAIN\My Documents\CVS_folder\src\24H\Code Examples\CE228_ECAN_FIFO\src\ECAN1Drv.c	149;"	l	line:149
+sid10_0	C:\Documents and Settings\c13661.MCHP-MAIN\My Documents\CVS_folder\src\24H\Code Examples\CE228_ECAN_FIFO\src\ECAN1Drv.c	275;"	l	line:275
+sid10_0	C:\Documents and Settings\c13661.MCHP-MAIN\My Documents\CVS_folder\src\24H\Code Examples\CE228_ECAN_FIFO\src\ECAN1Drv.c	84;"	l	line:84
+sid10_0	C:\Documents and Settings\c13661.MCHP-MAIN\My Documents\CVS_folder\src\24H\Code Examples\CE228_ECAN_FIFO\src\ECAN2Drv.c	146;"	l	line:146
+sid10_0	C:\Documents and Settings\c13661.MCHP-MAIN\My Documents\CVS_folder\src\24H\Code Examples\CE228_ECAN_FIFO\src\ECAN2Drv.c	272;"	l	line:272
+sid10_0	C:\Documents and Settings\c13661.MCHP-MAIN\My Documents\CVS_folder\src\24H\Code Examples\CE228_ECAN_FIFO\src\ECAN2Drv.c	83;"	l	line:83
+sidRegAddr	C:\Documents and Settings\c13661.MCHP-MAIN\My Documents\CVS_folder\src\24H\Code Examples\CE228_ECAN_FIFO\src\ECAN1Drv.c	85;"	l	line:85
+sidRegAddr	C:\Documents and Settings\c13661.MCHP-MAIN\My Documents\CVS_folder\src\24H\Code Examples\CE228_ECAN_FIFO\src\ECAN2Drv.c	84;"	l	line:84
+word0	C:\Documents and Settings\c13661.MCHP-MAIN\My Documents\CVS_folder\src\24H\Code Examples\CE228_ECAN_FIFO\src\ECAN1Drv.c	274;"	l	line:274
+word0	C:\Documents and Settings\c13661.MCHP-MAIN\My Documents\CVS_folder\src\24H\Code Examples\CE228_ECAN_FIFO\src\ECAN2Drv.c	271;"	l	line:271
+word1	C:\Documents and Settings\c13661.MCHP-MAIN\My Documents\CVS_folder\src\24H\Code Examples\CE228_ECAN_FIFO\src\ECAN1Drv.c	274;"	l	line:274
+word1	C:\Documents and Settings\c13661.MCHP-MAIN\My Documents\CVS_folder\src\24H\Code Examples\CE228_ECAN_FIFO\src\ECAN2Drv.c	271;"	l	line:271
+word2	C:\Documents and Settings\c13661.MCHP-MAIN\My Documents\CVS_folder\src\24H\Code Examples\CE228_ECAN_FIFO\src\ECAN1Drv.c	274;"	l	line:274
+word2	C:\Documents and Settings\c13661.MCHP-MAIN\My Documents\CVS_folder\src\24H\Code Examples\CE228_ECAN_FIFO\src\ECAN2Drv.c	271;"	l	line:271
