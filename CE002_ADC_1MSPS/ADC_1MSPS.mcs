@@ -1,0 +1,54 @@
+[Header]
+MagicCookie={0b13fe8c-dfe0-40eb-8900-6712719559a7}
+Version=1.0
+[File000]
+Location=C:\Documents and Settings\x10757\Desktop\cvs\src\30F\R_Apps\Code Examples\CE002_ADC_1MSPS\source\obj\ADC.o
+Folder=Intermediary
+DeviceName=dsPIC30F4011
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={069BD372-6CA0-40D4-BF2F-5DC806D05083}
+LanguageToolLocation=C:\Program Files\Microchip\MPLAB C30\bin\pic30-gcc.exe
+PPAD=$(BINDIR)|hex||$(TMPDIR)|obj||$(AINDIR)||$(INCDIR)||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|source\ADC.c|source\main.c||<obj>||<lib>||<lkr>|gld\linkerscript.gld||
+SuiteArgsString=
+ToolArgsString=-g -Os
+TraceCmdString=
+[File001]
+Location=C:\Documents and Settings\x10757\Desktop\cvs\src\30F\R_Apps\Code Examples\CE002_ADC_1MSPS\source\obj\main.o
+Folder=Intermediary
+DeviceName=dsPIC30F4011
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={069BD372-6CA0-40D4-BF2F-5DC806D05083}
+LanguageToolLocation=C:\Program Files\Microchip\MPLAB C30\bin\pic30-gcc.exe
+PPAD=$(BINDIR)|hex||$(TMPDIR)|obj||$(AINDIR)||$(INCDIR)||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|source\ADC.c|source\main.c||<obj>||<lib>||<lkr>|gld\linkerscript.gld||
+SuiteArgsString=
+ToolArgsString=-g -Os
+TraceCmdString=
+[File002]
+Location=C:\Documents and Settings\x10757\Desktop\cvs\src\30F\R_Apps\Code Examples\CE002_ADC_1MSPS\hex\ADC_1MSPS.cof
+Folder=Output
+DeviceName=dsPIC30F4011
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={433C3D55-811D-409D-A6BF-159CF9355B42}
+LanguageToolLocation=C:\Program Files\Microchip\MPLAB C30\bin\pic30-ld.exe
+PPAD=$(BINDIR)|hex||$(TMPDIR)|obj||$(AINDIR)||$(INCDIR)||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|source\ADC.c|source\main.c||<obj>||<lib>||<lkr>|gld\linkerscript.gld||
+SuiteArgsString=
+ToolArgsString=--defsym=__ICD2RAM=1 -Map="$(TARGETBASE).map" --report-mem -o"$(TARGETBASE).$(TARGETSUFFIX)"
+TraceCmdString=
+[File003]
+Location=C:\Documents and Settings\x10757\Desktop\cvs\src\30F\R_Apps\Code Examples\CE002_ADC_1MSPS\hex\ADC_1MSPS.hex
+Folder=Output
+DeviceName=dsPIC30F4011
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={433C3D55-811D-409D-A6BF-159CF9355B42}
+LanguageToolLocation=C:\Program Files\Microchip\MPLAB C30\bin\pic30-ld.exe
+PPAD=$(BINDIR)|hex||$(TMPDIR)|obj||$(AINDIR)||$(INCDIR)||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|source\ADC.c|source\main.c||<obj>||<lib>||<lkr>|gld\linkerscript.gld||
+SuiteArgsString=
+ToolArgsString=--defsym=__ICD2RAM=1 -Map="$(TARGETBASE).map" --report-mem -o"$(TARGETBASE).$(TARGETSUFFIX)"
+TraceCmdString=
+[TOOL_LOC_STAMPS]
+tool_loc{069BD372-6CA0-40D4-BF2F-5DC806D05083}=C:\Program Files\Microchip\MPLAB C30\bin\pic30-gcc.exe
+tool_loc{433C3D55-811D-409D-A6BF-159CF9355B42}=C:\Program Files\Microchip\MPLAB C30\bin\pic30-ld.exe
